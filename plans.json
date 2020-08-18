@@ -1,0 +1,41 @@
+[{
+	"model": "plans.blogplan",
+	"pk": 1,
+	"fields": {
+		"title": "Stop Apple News+ From Taking Over iOS or macOS",
+		"text": "Even if you aren’t playing around with iOS 14 or macOS Big Sur yet, there’s one setting you want to know if you’re an Apple News+ subscriber. That’s because starting with iOS 14 and macOS Big Sur, web links to news stories that you tap or click will pull up said stories in Apple News+, rather than the publisher’s site. This “feature” only applies to publishers participating in Apple News+, but it’s a bit of a jarring takeover by Apple’s app. While it’s not uncommon for various websites to reroute links to their apps whenever possible, or at least ask you if you’d like to launch the associated app instead of the web-based content you’re trying to access, Apple’s implementation in iOS 14 and macOS Big Sur sends you right to the News app. And, as far as I can tell, this behavior is enabled by default.To disable it in iOS 14—because you’d rather continue visiting a publisher’s website than launching that same content in Apple’s app—you’ll want to visit Settings > News. In there, look for the “Open Web Links in News” option and turn it off",
+		"premium": false
+	}
+}, {
+	"model": "plans.blogplan",
+	"pk": 2,
+	"fields": {
+		"title": "Boeing 747s Still Use Floppy Disks to Get Critical Software UpdatesIncrease Your Vertical in 6 weeks",
+		"text": "It’s been approximately 12 million years since most of us last used a floppy disk, but apparently, the antiquated tech still plays a critical role in delivering software updates to Boeing’s 747-400 planes.The discovery comes courtesy of cybersecurity firm Pen Test Partners and was initially spotted by The Register. As part of this year’s virtual DEF CON hacker conference, Pen Test Partners showed off a video walkthrough of a British Airways 747 after the airline decided to retire its entire fleet last month due to the global pandemic. The roughly 10-minute tour is a neat glimpse into the plane’s rarely seen avionics bay and cockpit—where Pen Test Partners discovered a 3.5-inch floppy disk drive.",
+		"premium": true
+	}
+}, {
+	"model": "plans.blogplan",
+	"pk": 3,
+	"fields": {
+		"title": "Who Is Responsible for What AI Creates?",
+		"text": "Having made my living writing and telling stories and, now, leading a team of talented content creators at CoinDesk, my first response to the latest announcement from OpenAI was one of horror. If you missed it, OpenAI last month released “GPT-3,” the latest version of its language-generating AI tool. Countless test runs have shown its impressive ability to scribe entire essays, produce app wireframes, and even write software code in response to just a few words of instruction. Armed with GPT-3 and, later with subsequent versions 4, 5, 6, etc, artificial intelligence is on its way to becoming an adept and even polished content creator. The upshot: we writers are not immune to the robots. Now that I’ve accepted that fate, it’s time to turn to the even bigger questions this raises for society as a whole: Foremost, when (not if) semi-autonomous AI applications are churning out the majority of the content we consume, who owns it? Who is responsible if it results in fake documents or news? (What does “fake” even mean in this context?) Who can or should be held liable for defamation or other consequences of its speech or creative expression? And how do we divide up the rights and sub-rights to AI-produced derivative works whose content or ideas are built on those of a previous author or inventor? As the recent problems with hydroxychloroquine-promoting videos demonstrate, we’re barely able to manage these issues with human-created content. The incoming wave of AI creation will overwhelm the piecemeal system we’ve cobbled together. We need a framework now for understanding which human beings (or human-managed corporations) own the creative output of this future digital writers-for-hire. For that, we’re going to need to fast-track the open-platform solutions of “Web 3.0.” We need decentralized models that combine blockchain technology, censorship-resistant file management, and user-based data controls to create reliable proofs of provenance and ownership. To understand how that Web 3.0 future might help us maintain control over AI rather than the other way around, let’s first look at our current “Web 2.0” architecture and the issues it poses for rights management.",
+		"premium": true
+	}
+}, {
+	"model": "plans.blogplan",
+	"pk": 4,
+	"fields": {
+		"title": "The Best Domain Registrar",
+		"text": "Choosing the best domain registrar is an important step to building any website. Below, I’ve reviewed it along with six solid contenders based on years of experience. Over the course of my career starting, running, and selling businesses, I’ve bought hundreds of domain names. Although you may be tempted to bundle domain registry with your web host, if you’re planning on buying more than one domain over time, you should keep them separate. \n It’s not a big deal to go ahead and buy them together if you’re doing something simple, like starting a portfolio site or a small personal blog. But, domain names and web hosting are two different competencies and it’s best to use expert providers for each. \n With that said, if you have a very specific need and don’t think that you’ll ever need more domain names, you can save money by registering with Bluehost when you start your website or blog. \n Bluehost offers a free domain name with their web hosting plans. This is my recommendation for those of you who want to bundle these services from the same provider. \n Read on for reviews of the other domain registrars on our list.",
+		"premium": true
+	}
+}, {
+	"model": "plans.blogplan",
+	"pk": 5,
+	"fields": {
+		"title": "Excel’s Formatting Is Screwing Up Human Gene Research",
+		"text": "If you’re looking to keep track of things like in a database, then using Microsoft Excel is one way to go about it. It is a great spreadsheet tool that can be useful when keeping track of things like names, phone numbers, finances, and more, but it seems that no thanks to Excel’s formatting, it is messing up the research on human genes. \n According to a report from The Verge, it seems that the HUGO Gene Nomenclature Committee has issued a set of guidelines for naming human genes. The need for these guidelines comes on the heels of how Excel’s automatic date formatting feature accidentally ended up altering the data by interpreting the data wrongly. \n For example, when researchers entered MARCH 1 to indicate Membrane Associated Ring-CH-Type Finger 1, Excel thought it was a date and formatted it as such. As a result, the committee is asking researchers to rename some of the genes to prevent future similar accidents. \n While it might seem a bit trivial, the implications could be huge. This is because working with corrupted data or data that has been formatted wrongly could set back the research done by the scientists. In fact, a study from 2016 actually found that out of 3,597 papers that were published, about a fifth of them have been affected by these Excel formatting errors.",
+		"premium": true
+	}
+}]
